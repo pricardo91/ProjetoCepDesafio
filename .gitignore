@@ -1,15 +1,26 @@
 ### Eclipse ###
+### Eclipse ###
+
 .apt_generated
+
 .classpath
+
+*.json
+
 .factorypath
+
 .project
+
 .settings
+
 .springBeans
+
 .sts4-cache
+
 .idea
+
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+
 
 # Compiled class file
 *.class
